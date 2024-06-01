@@ -1,0 +1,22 @@
+/*---- mediam --- */
+@media all and (max-width:992px){
+    section h2{
+        font-size: 19px;
+    }
+   
+    table .btn{
+        padding: 5px 6px;
+        font-size: 13px;
+    }
+    
+    .popup-content{
+        width: 400px;
+    }
+    .popup-content p{
+        font-size: 16px;
+    }
+
+    .popup-content li{
+        font-size: 14px;
+    }
+}
